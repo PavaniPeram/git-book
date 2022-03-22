@@ -1,0 +1,32 @@
+pwd-> present working directory
+
+ls-> list of files
+
+ls -a -> list of hidden files
+
+cd-> change directory
+
+cd ..-> goes one step backwards
+
+cd ../.. -> goes two step backwards
+
+mkdir-> make directory (used for creating directory(folder))
+
+rmdir-> remove directory
+
+touch -> creates empty file
+
+echo -> single line data
+       (echo " " > filename)
+
+cat -> To read the data
+
+nano -> to create and write the data (it is used for writing multiple line of data)
+
+gedit -> create and write the data( it works in linux & ubuntu operating systems)
+
+rm -> remove file
+
+mv->moves(or) renames the filename
+
+cp-> it copies the file from one file to other or one folder to other.
